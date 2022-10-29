@@ -30,5 +30,5 @@ python show.py -d cpu -img assets/n01669191_46.JPEG -layer {layer name} -m {your
 | Method   | Framework |
 | :-----:  | :--------: |
 | Grad-CAM | [Pytorch](https://github.com/shyhyawJou/GradCAM-pytorch) | 
-| Eigen-CAM | [Pytorch](https://github.com/shyhyawJou/EigenCAM-Pytorch)/[Tensorflow](https://github.com/shyhyawJou/EigenCAM-Pytorch) |
+| Eigen-CAM | [Pytorch](https://github.com/shyhyawJou/EigenCAM-Pytorch)/[Tensorflow](https://github.com/shyhyawJou/Eigen-CAM-Tensorflow) |
 | Ablation-CAM | [Tensorflow](https://github.com/shyhyawJou/Ablation-CAM-Tensorflow) |
